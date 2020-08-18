@@ -1,6 +1,6 @@
 {
   "name": "@comeon/babel-preset-comeon",
-  "version": "4.3.7-gha.0",
+  "version": "4.3.7-gha.1.0",
   "description": "Opinionated Babel 7 preset",
   "main": "index.js",
   "repository": "https://github.com/comeon-stockholm/babel-preset-comeon.git",
